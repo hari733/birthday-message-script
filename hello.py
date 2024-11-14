@@ -15,7 +15,7 @@ contacts = [
 ]
 
 # Your birthday message (can be personalized)
-message_template = 'Happy Birthday, {name}! 🎉🎂 Have a wonderful day!'
+message_template = 'Happy Birthday, {name}! 🎉🎂 Have a wonderful day! Automation Testing Message just ignore'
 
 # Loop through each contact and send a message
 for contact in contacts:
